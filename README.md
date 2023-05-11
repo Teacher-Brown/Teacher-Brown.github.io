@@ -1,3 +1,3 @@
 # Teacher-Brown.github.io
 
-<h1>Tayiens practice website<h1>
+<h1>Web practice for students<h1>
